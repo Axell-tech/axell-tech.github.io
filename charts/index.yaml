@@ -9,6 +9,6 @@ entries:
     name: base-web
     type: application
     urls:
-    - base-web-0.1.0.tgz
+    - https://github.com/Axell-tech/axell-tech.github.io/charts/base-web-0.1.0.tgz
     version: 0.1.0
 generated: "2021-05-06T03:14:10.10173+04:00"
