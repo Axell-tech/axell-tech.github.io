@@ -3,12 +3,12 @@ entries:
   base-web:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-06T03:38:51.455765+04:00"
+    created: "2021-06-18T08:22:07.311959+04:00"
     description: A Helm chart for Kubernetes
-    digest: 09d1324d954a42a98120e0a1eef074ae6aff693e442b4b7a7f8c10b6d18331bb
+    digest: 6e6a24531f6eef19a8f9142942933fee8e0216ea580fa0943ea2ac42af88ad42
     name: base-web
     type: application
     urls:
-    - https://axell-tech.github.io/base-web-0.1.0.tgz
+    - https://axell-tech.github.io/helm-chart/base-web-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-06T03:38:51.454266+04:00"
+generated: "2021-06-18T08:22:07.310902+04:00"
